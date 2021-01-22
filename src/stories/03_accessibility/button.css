@@ -1,0 +1,30 @@
+.button {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  cursor: pointer;
+}
+
+.button:hover {
+  box-shadow: rgba(237, 26, 61, 0.5) 0px 0px 11px;
+}
+
+.button--nonAccessible {
+  color: #ed1a3d;
+  background-color: #23282b;
+}
+
+.button--accessible {
+  color: #333;
+  background-color: #fff;
+}
+
+.button--small {
+  font-size: 12px;
+  padding: 10px 16px;
+}
+
+.button--large {
+  font-size: 16px;
+  padding: 12px 24px;
+}
