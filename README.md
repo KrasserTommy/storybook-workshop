@@ -1,1 +1,1 @@
-# storybook-workshop
+# Storybook
